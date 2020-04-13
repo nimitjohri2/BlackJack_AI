@@ -1,0 +1,7 @@
+C:\Users\Nimit Johri\source\repos\BlackJack_QLearning\BlackJack_QLearning\bin\Debug\BlackJack_QLearning.exe.config
+C:\Users\Nimit Johri\source\repos\BlackJack_QLearning\BlackJack_QLearning\bin\Debug\BlackJack_QLearning.exe
+C:\Users\Nimit Johri\source\repos\BlackJack_QLearning\BlackJack_QLearning\bin\Debug\BlackJack_QLearning.pdb
+C:\Users\Nimit Johri\source\repos\BlackJack_QLearning\BlackJack_QLearning\obj\Debug\BlackJack_QLearning.csprojAssemblyReference.cache
+C:\Users\Nimit Johri\source\repos\BlackJack_QLearning\BlackJack_QLearning\obj\Debug\BlackJack_QLearning.csproj.CoreCompileInputs.cache
+C:\Users\Nimit Johri\source\repos\BlackJack_QLearning\BlackJack_QLearning\obj\Debug\BlackJack_QLearning.exe
+C:\Users\Nimit Johri\source\repos\BlackJack_QLearning\BlackJack_QLearning\obj\Debug\BlackJack_QLearning.pdb
